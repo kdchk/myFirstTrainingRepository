@@ -10,7 +10,11 @@ namespace myTrainingRepositoryConsoleApplication
     {
         static void Main(string[] args)
         {
+            //Greeting
             Console.WriteLine("Hello world!");
+
+            //delay
+            Console.ReadKey();
         }
     }
 }
